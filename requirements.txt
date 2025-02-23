@@ -3,3 +3,4 @@ firebase-admin
 psutil
 plotly
 streamlit-authenticator
+smtplib
